@@ -1,0 +1,9 @@
+python-telegram-bot==20.6
+Flask
+instaloader
+nest_asyncio
+python-telegram-bot
+telegram
+werkzeug
+nest-asyncio
+yt-dlp
